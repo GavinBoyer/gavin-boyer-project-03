@@ -1,13 +1,24 @@
-head {
+body {
     background-color: #172d13;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
 
-body {
-    background-color: #172d13;
-    color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+h2 {
+    background-color: #d76f30;
+}
+
+h3 {
+    background-color: #d76f30;
+}
+
+h4 {
+    background-color: #d76f30;
+}
+
+a {
+    color: #6bb77b;
+    background-color: #d76f30;
 }
 
