@@ -7,14 +7,17 @@ body {
 
 h2 {
     background-color: #d76f30;
+    color: #281b0d;
 }
 
 h3 {
     background-color: #d76f30;
+    color: #281b0d;
 }
 
 h4 {
     background-color: #d76f30;
+    color: #281b0d;
 }
 
 a {
@@ -22,3 +25,10 @@ a {
     background-color: #d76f30;
 }
 
+li {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
